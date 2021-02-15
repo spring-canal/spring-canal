@@ -1,8 +1,10 @@
 # Spring Canal
 
+![Gradle CI](https://github.com/spring-canal/spring-canal/workflows/Gradle%20CI/badge.svg?branch=1.1.x)
+
 A Spring framework Canal support
 
-[中文说明](https://github.com/spring-canal/spring-canal/blob/main/README-zh.md)
+[中文说明](https://github.com/spring-canal/spring-canal/blob/1.1.x/README-zh.md)
 
 # How to use
 
