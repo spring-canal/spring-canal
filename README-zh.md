@@ -2,9 +2,9 @@
 
 Spring框架的Canal支持
 
-![Gradle CI](https://github.com/spring-canal/spring-canal/workflows/Gradle%20CI/badge.svg?branch=dev)
+![Gradle CI](https://github.com/spring-canal/spring-canal/workflows/Gradle%20CI/badge.svg?branch=1.1.x)
 
-[English Document](https://github.com/spring-canal/spring-canal/blob/dev/README.md)
+[English Document](https://github.com/spring-canal/spring-canal/blob/1.1.x/README.md)
 
 # 如何使用
 
